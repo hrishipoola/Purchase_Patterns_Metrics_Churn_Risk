@@ -1,4 +1,4 @@
-# Purchase Patterns, Metrics, & Churn_Risk
+# Purchase Patterns, Metrics, & Churn Risk
 
 Today, we'll work with the retail transactions [data we cleaned and processed in a previous post](https://crawstat.com/2021/03/16/product-focus-recs-using-pareto-apriori-association/). After detecting and treating outliers using Tukey's method and winsorization, we'll uncover purchase patterns across different time slices and define Pareto - or the 20% of products and customers driving 80% of sales. We'll compare new and returning customers, which we'll define as first-time purchasers and customers purchasing again within a month, respectively. Classifying new and returning customers helps us understand how customer acquisition and retention rates change over time and how purchase habits, like average order value (AOV), compares between the two groups. 
 
